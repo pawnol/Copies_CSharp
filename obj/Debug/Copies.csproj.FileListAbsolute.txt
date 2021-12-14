@@ -1,0 +1,10 @@
+\\et-fileserver\staff\pawnol\Desktop\Copies\bin\Debug\Copies.exe.config
+\\et-fileserver\staff\pawnol\Desktop\Copies\bin\Debug\Copies.exe
+\\et-fileserver\staff\pawnol\Desktop\Copies\bin\Debug\Copies.pdb
+\\et-fileserver\staff\pawnol\Desktop\Copies\obj\Debug\Copies.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\Copies\obj\Debug\Copies.CopiesForm.resources
+\\et-fileserver\staff\pawnol\Desktop\Copies\obj\Debug\Copies.Properties.Resources.resources
+\\et-fileserver\staff\pawnol\Desktop\Copies\obj\Debug\Copies.csproj.GenerateResource.cache
+\\et-fileserver\staff\pawnol\Desktop\Copies\obj\Debug\Copies.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\Copies\obj\Debug\Copies.exe
+\\et-fileserver\staff\pawnol\Desktop\Copies\obj\Debug\Copies.pdb
